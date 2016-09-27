@@ -19,3 +19,32 @@
 .usermotto {
   margin-top: 200px;
 }
+
+.scroll-view-item{
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.scroll-view-item-left{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 150rpx;
+    justify-content: center;
+    padding-left:30px;
+}
+
+.scroll-view-item-right{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: center;
+    padding-left:20px;
+}
+
+.scroll-view-item-line{
+    height:100%;
+    width:1px;
+    background-color: #FFF
+}

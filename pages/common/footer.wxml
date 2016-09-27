@@ -1,0 +1,5 @@
+<template>
+    <view>
+        <text>通用底部</text>
+    </view>
+</template>

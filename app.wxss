@@ -5,6 +5,39 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  padding: 200rpx 0;
+  padding: 0rpx 0;
   box-sizing: border-box;
-} 
+}
+.page-header {
+  display: flex;
+  font-size: 32rpx;
+  color: #aaa;
+  justify-content: center;
+  margin-top: 50rpx;
+}
+.page-header-text {
+  padding: 20rpx 40rpx;
+  border-bottom: 1px solid #ccc;
+}
+
+.bc_primary{
+    background-color: #FCD0CD;
+}
+.bc_primaryDark{
+    background-color: #f7a7aa;
+}
+.text_white{
+    color:white
+}
+
+.text_date{
+   font-size: 30rpx;
+}
+
+.text_body{
+   font-size: 30rpx;
+}
+
+.text_dis{
+   font-size: 24rpx;
+}
