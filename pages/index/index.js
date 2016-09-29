@@ -9,6 +9,11 @@ Page({
   //事件处理函数
   bindAddView: function() {
     wx.navigateTo({
+      url: '../keep/keep'
+    })
+  },
+  bindLog: function() {
+    wx.navigateTo({
       url: '../logs/logs'
     })
   },
