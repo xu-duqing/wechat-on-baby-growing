@@ -15,4 +15,8 @@
       </view>
     </view>
   </view>
+
+  <view class="add-circle" bindtap="bindAddView">
+    <image src="../image/plus_white.png" class="image-plus" />
+  </view>
 </view>
